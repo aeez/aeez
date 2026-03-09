@@ -12,9 +12,8 @@
 
 <a href = "https:https://www.linkedin.com/in/akramfais/" alt="LinkedIn"><img src="https://img.icons8.com/fluency//000000/linkedin-new.png" height="40" width="40" style= margin-right:15px;/></a>
 
-<a href = "mailto:4kramfais@gmail.com" alt="Email"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" style= margin-right:15px;/></a>
-
 <a href = "https://www.instagram.com/akramvais/" alt="Instagram"><img src="https://img.icons8.com/fluency//000000/instagram-new.png" height="40" width="40" style= margin-right:15px;/></a>
+<a href = "mailto:4kramfais@gmail.com" alt="Email"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40" style= margin-right:15px;/></a>
 
 ### languages and tools
 
